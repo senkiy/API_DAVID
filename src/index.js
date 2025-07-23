@@ -58,7 +58,7 @@ app.get("/vehicles", (req, res) => {
                 connected: 600,
                 softwareUpdates: 310,
                 vin: "2RFAASOYS4E4HDU34875",
-                img: "http://localhost:3001/mustang.png"
+                img: "https://apidavid-production.up.railway.app/mustang.png"
             },
             {
                 id: 3,
@@ -67,7 +67,7 @@ app.get("/vehicles", (req, res) => {
                 connected: 270,
                 softwareUpdates: 970,
                 vin: "1GKFK16K0RJ736886",
-                img: "http://localhost:3001/territory.png"
+                img: "https://apidavid-production.up.railway.app/territory.png"
             },
             {
                 id: 4,
@@ -76,7 +76,7 @@ app.get("/vehicles", (req, res) => {
                 connected: 310,
                 softwareUpdates: 290,
                 vin: "JH4DA9350PS016433",
-                img: "http://localhost:3001/broncoSport.png"
+                img: "https://apidavid-production.up.railway.app/broncoSport.png"
             }
         ];
 
