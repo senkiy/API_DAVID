@@ -49,7 +49,7 @@ app.get("/vehicles", (req, res) => {
                 connected: 500,
                 softwareUpdates: 750,
                 vin: "2FRHDUYS2Y63NHD22454",
-                img: "http://localhost:3001/ranger.png"
+                img: "https://apidavid-production.up.railway.app/ranger.png"
             },
             {
                 id: 2,
